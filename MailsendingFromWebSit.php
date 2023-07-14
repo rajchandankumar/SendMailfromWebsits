@@ -63,7 +63,7 @@
 
         //Recipients
         $mail->setFrom("hello@gmail.com");  //mail sender
-        $mail->addAddress('hello@gmail.com', 'chandan ');     //It take same or different mail where you want to receive Mail
+        $mail->addAddress('hello@gmail.com', 'john ');     //It take same or different mail where you want to receive Mail
         
 
         //Attachments
